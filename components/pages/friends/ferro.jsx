@@ -22,7 +22,9 @@ export default function Ferro() {
           />
         </div>
         <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
-          <PicGallery images={images} />
+          <div className="rounded-lg overflow-hidden">
+            <PicGallery images={images} />
+          </div>
         </div>
       </div>
     </section>

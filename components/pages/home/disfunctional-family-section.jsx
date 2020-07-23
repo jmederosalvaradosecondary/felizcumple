@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 export default function DisfunctionalFamilySection() {
   return (
@@ -14,60 +15,174 @@ export default function DisfunctionalFamilySection() {
             Esto es solo para rellenar. Esto es solo para rellenar.
           </p>
         </div>
+
         <div className="flex flex-wrap -m-4">
           <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
             <div className="h-full flex flex-col items-center text-center">
               <img
-                alt="team"
+                alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
                 src="https://dummyimage.com/200x200"
               />
               <div className="w-full">
-                <h2 className="title-font font-medium text-lg text-pink-500">
-                  Nombre de la persona
-                </h2>
+                <Link href="/arianna">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Arianna
+                  </a>
+                </Link>
               </div>
             </div>
           </div>
+
           <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
             <div className="h-full flex flex-col items-center text-center">
               <img
-                alt="team"
+                alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/201x201"
+                src="https://dummyimage.com/200x200"
               />
               <div className="w-full">
-                <h2 className="title-font font-medium text-lg text-pink-500">
-                  Nombre de la persona
-                </h2>
+                <Link href="/ariel">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Ariel
+                  </a>
+                </Link>
               </div>
             </div>
           </div>
+
           <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
             <div className="h-full flex flex-col items-center text-center">
               <img
-                alt="team"
+                alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/202x202"
+                src="https://dummyimage.com/200x200"
               />
               <div className="w-full">
-                <h2 className="title-font font-medium text-lg text-pink-500">
-                  Nombre de la persona
-                </h2>
+                <Link href="/carli">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Carli
+                  </a>
+                </Link>
               </div>
             </div>
           </div>
+
           <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
             <div className="h-full flex flex-col items-center text-center">
               <img
-                alt="team"
+                alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/203x203"
+                src="https://dummyimage.com/200x200"
               />
               <div className="w-full">
-                <h2 className="title-font font-medium text-lg text-pink-500">
-                  Nombre de la persona
-                </h2>
+                <Link href="/chubi">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Chubi
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/eli">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Elizabeth
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/fernan-cynthia">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Fernan y Cynthia
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/mari">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Maria Karla
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/sharon">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Sharon
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/steph">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Steph
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="https://dummyimage.com/200x200"
+              />
+              <div className="w-full">
+                <Link href="/utyi">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Utyi
+                  </a>
+                </Link>
               </div>
             </div>
           </div>

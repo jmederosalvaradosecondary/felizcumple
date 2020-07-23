@@ -1,14 +1,5 @@
 import React from "react";
 import { Player } from "video-react";
-import PicGallery from "../../shared/picgallery";
-
-const images = [
-  { original: "/assets/friends/adri/pic-5.jpeg" },
-  { original: "/assets/friends/adri/pic-1.jpeg" },
-  { original: "/assets/friends/adri/pic-2.jpeg" },
-  { original: "/assets/friends/adri/pic-3.jpeg" },
-  { original: "/assets/friends/adri/pic-4.jpeg" }
-];
 
 export default function Adri() {
   return (
@@ -22,7 +13,12 @@ export default function Adri() {
           />
         </div>
         <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
-          <PicGallery images={images} />
+          <div>
+            <img
+              src="/assets/friends/adri/pic-0.jpg"
+              className="rounded-lg overflow-hidden object-cover"
+            />
+          </div>
         </div>
       </div>
     </section>
