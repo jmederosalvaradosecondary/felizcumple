@@ -1,0 +1,26 @@
+{
+  "name": "birthday-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.4.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-image-gallery": "^1.0.8",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
+    "video-react": "^0.14.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@svgr/webpack": "^5.4.0",
+    "autoprefixer": "^9.8.0",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.4.6"
+  }
+}
