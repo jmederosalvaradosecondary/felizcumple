@@ -5,6 +5,13 @@ export default function Steph() {
     <section className="text-gray-700 body-font">
       <div className="container mx-auto py-6">
         <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
+          <Player
+            className="rounded-lg overflow-hidden"
+            src="/assets/disfunctional-family/steph/video.mp4"
+            aspectRatio="16:9"
+          />
+        </div>
+        <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
           <div className="rounded-lg overflow-hidden">
             <img src="/assets/disfunctional-family/steph/pic-1.jpg" />
           </div>

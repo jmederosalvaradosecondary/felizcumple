@@ -21,7 +21,7 @@ export default function FriendsSection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="assets/friends/adri/preview.jpeg"
               />
               <div className="w-full">
                 <Link href="/adri">
@@ -37,7 +37,7 @@ export default function FriendsSection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/201x201"
+                src="/assets/friends/sariol/preview.jpeg"
               />
               <div className="w-full">
                 <Link href="/sariol">
@@ -53,7 +53,7 @@ export default function FriendsSection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/202x202"
+                src="/assets/friends/ferro/preview.jpeg"
               />
               <div className="w-full">
                 <Link href="/ferro">
