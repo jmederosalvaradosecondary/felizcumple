@@ -1,4 +1,5 @@
 import React from "react";
+import { Player } from "video-react";
 
 export default function Steph() {
   return (
