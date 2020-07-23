@@ -1,7 +1,7 @@
 import React from "react";
 import PicGallery from "../../shared/picgallery";
 
-const images1 = [
+const images = [
   { original: "/assets/disfunctional-family/utyi/pic-1.jpeg" },
   { original: "/assets/disfunctional-family/utyi/pic-2.jpeg" },
   { original: "/assets/disfunctional-family/utyi/pic-3.jpeg" },
