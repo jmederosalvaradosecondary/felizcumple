@@ -68,11 +68,6 @@ export default function Mari() {
         </div>
         <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
           <p className="leading-relaxed text-lg">
-            <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
-              <div className="rounded-lg overflow-hidden">
-                <img src="/assets/disfunctional-family/mari/pic-3.jpg" />
-              </div>
-            </div>
             <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
               <p className="leading-relaxed text-lg">
                 Hoy y todos los días te deseo lo mejor del mundo ...toda la
