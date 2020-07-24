@@ -25,6 +25,13 @@ export default function JMederos() {
             <PicGallery images={images} />
           </div>
         </div>
+        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p class="leading-relaxed text-lg">
+            Amor mio, aqui algunas foticos que representa momentos muy
+            especiales para mi. Sabes que la playa es nuestro lugar especial.
+          </p>
+          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+        </div>
       </div>
     </section>
   );
