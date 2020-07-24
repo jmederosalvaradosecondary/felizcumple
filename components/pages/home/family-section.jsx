@@ -56,9 +56,25 @@ export default function FamilySection() {
                 src="/assets/family/jmederos-family/preview.jpg"
               />
               <div className="w-full">
-                <Link href="ultimo-trocito-de-familia">
+                <Link href="/ultimo-trocito-de-familia">
                   <a className="title-font font-medium text-lg text-pink-500">
                     Tu Ultimo Trocito de Familia
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="/assets/family/abueqq/preview.jpeg"
+              />
+              <div className="w-full">
+                <Link href="/abueqq">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Tu Abuelita QQ
                   </a>
                 </Link>
               </div>
