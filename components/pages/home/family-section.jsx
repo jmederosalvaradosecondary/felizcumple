@@ -24,9 +24,12 @@ export default function FamilySection() {
                 src="/assets/family/home-family/preview.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Tu Hermosa Familia
+                </h2>
                 <Link href="/familia-de-casita">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Tu Hermosa Familia
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -40,9 +43,12 @@ export default function FamilySection() {
                 src="/assets/family/usa-family/pic-8.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Tu Familia de más Lejitos
+                </h2>
                 <Link href="/familia-de-mas-lejitos">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Tu Familia de más Lejitos
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -56,9 +62,12 @@ export default function FamilySection() {
                 src="/assets/family/jmederos-family/preview.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Tu Ultimo Trocito de Familia
+                </h2>
                 <Link href="/ultimo-trocito-de-familia">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Tu Ultimo Trocito de Familia
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -72,9 +81,12 @@ export default function FamilySection() {
                 src="/assets/family/abueqq/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Tu Abuelita QQ
+                </h2>
                 <Link href="/abueqq">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Tu Abuelita QQ
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>

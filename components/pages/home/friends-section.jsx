@@ -23,9 +23,12 @@ export default function FriendsSection() {
                 src="assets/friends/adri/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Adrianita
+                </h2>
                 <Link href="/adri">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Adrianita
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -39,9 +42,12 @@ export default function FriendsSection() {
                 src="/assets/friends/sariol/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Sariol
+                </h2>
                 <Link href="/sariol">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Sariol
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -55,9 +61,12 @@ export default function FriendsSection() {
                 src="/assets/friends/ferro/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Ferro
+                </h2>
                 <Link href="/ferro">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Ferro
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>

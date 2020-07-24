@@ -23,9 +23,12 @@ export default function LoveSection() {
                 src="/assets/love/jmederos/pic-1.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Amor Mío
+                </h2>
                 <Link href="/amor-mio">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Amor Mío
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>

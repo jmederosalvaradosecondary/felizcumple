@@ -25,9 +25,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/arianna/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Arianna
+                </h2>
                 <Link href="/arianna">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Arianna
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -42,9 +45,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/ariel/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Ariel
+                </h2>
                 <Link href="/ariel">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Ariel
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -59,9 +65,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/carli/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Carli
+                </h2>
                 <Link href="/carli">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Carli
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -76,9 +85,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/chubi/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Chubi
+                </h2>
                 <Link href="/chubi">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Chubi
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -93,9 +105,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/eli/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Elizabeth
+                </h2>
                 <Link href="/eli">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Elizabeth
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -110,9 +125,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/fernan-cynthia/preview.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Fernan y Cynthia
+                </h2>
                 <Link href="/fernan-cynthia">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Fernan y Cynthia
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -127,9 +145,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/mari/preview.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Maria Karla
+                </h2>
                 <Link href="/mari">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Maria Karla
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -144,9 +165,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/sharon/preview.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Sharon
+                </h2>
                 <Link href="/sharon">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Sharon
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -161,9 +185,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/steph/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Steph
+                </h2>
                 <Link href="/steph">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Steph
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -178,9 +205,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/utyi/pic-1.jpg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Utyi
+                </h2>
                 <Link href="/utyi">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Utyi
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -195,9 +225,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/pancho/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Pancho
+                </h2>
                 <Link href="/pancho">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Pancho
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
@@ -212,9 +245,12 @@ export default function DisfunctionalFamilySection() {
                 src="/assets/disfunctional-family/glenda/pic-1.jpeg"
               />
               <div className="w-full">
+                <h2 className="title-font font-medium text-lg text-pink-500">
+                  Glendita
+                </h2>
                 <Link href="/glenda">
-                  <a className="title-font font-medium text-lg text-pink-500">
-                    Glendita
+                  <a className="text-center text-gray-500 italic hover:underline focus:underline">
+                    Click Aquí
                   </a>
                 </Link>
               </div>
