@@ -7,7 +7,7 @@ export default function LoveSection() {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="text-2xl font-medium title-font mb-4 text-pink-500">
-            Aqui No Se Que Poner
+            Alguien que te necesita mucho
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Algo que represente amor. Que mas menos sea de este largo. Esto es
