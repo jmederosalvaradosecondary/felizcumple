@@ -14,7 +14,7 @@ export default function Steph() {
         </div>
         <div className="mt-6 px-6 md:px-12 lg:px-32 flex justify-center items-center">
           <div className="rounded-lg overflow-hidden">
-            <img src="/assets/disfunctional-family/steph/pic-1.jpg" />
+            <img src="/assets/disfunctional-family/steph/pic-1.jpeg" />
           </div>
         </div>
         <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">

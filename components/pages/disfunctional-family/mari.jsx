@@ -82,7 +82,6 @@ export default function Mari() {
               <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
             </div>
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>

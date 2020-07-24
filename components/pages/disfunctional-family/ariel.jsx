@@ -2,9 +2,9 @@ import React from "react";
 import PicGallery from "../../shared/picgallery";
 
 const images = [
-  { original: "/assets/desfunctional-family/ariel/pic-1.jpeg" },
-  { original: "/assets/desfunctional-family/ariel/pic-2.jpeg" },
-  { original: "/assets/desfunctional-family/ariel/pic-3.jpeg" }
+  { original: "/assets/disfunctional-family/ariel/pic-1.jpeg" },
+  { original: "/assets/disfunctional-family/ariel/pic-2.jpeg" },
+  { original: "/assets/disfunctional-family/ariel/pic-3.jpeg" }
 ];
 
 export default function ariel() {

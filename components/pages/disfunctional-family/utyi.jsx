@@ -2,12 +2,12 @@ import React from "react";
 import PicGallery from "../../shared/picgallery";
 
 const images = [
-  { original: "/assets/disfunctional-family/utyi/pic-1.jpeg" },
-  { original: "/assets/disfunctional-family/utyi/pic-2.jpeg" },
-  { original: "/assets/disfunctional-family/utyi/pic-3.jpeg" },
-  { original: "/assets/disfunctional-family/utyi/pic-4.jpeg" },
-  { original: "/assets/disfunctional-family/utyi/pic-5.jpeg" },
-  { original: "/assets/disfunctional-family/utyi/pic-6.jpeg" }
+  { original: "/assets/disfunctional-family/utyi/pic-1.jpg" },
+  { original: "/assets/disfunctional-family/utyi/pic-2.jpg" },
+  { original: "/assets/disfunctional-family/utyi/pic-3.jpg" },
+  { original: "/assets/disfunctional-family/utyi/pic-4.jpg" },
+  { original: "/assets/disfunctional-family/utyi/pic-5.jpg" },
+  { original: "/assets/disfunctional-family/utyi/pic-6.jpg" }
 ];
 
 export default function Utyi() {

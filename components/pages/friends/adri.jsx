@@ -19,15 +19,15 @@ export default function Adri() {
               className="rounded-lg overflow-hidden object-cover"
             />
           </div>
-          <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-            <p class="leading-relaxed text-lg">
-              Los cumpleaños van y vienen. Pero las personas inolvidables como
-              tú permanecen en el corazón para siempre. Te deseo muchas
-              felicidades en este día y espero seguir celebrando más cumpleaños
-              contigo porque eres muy especial. Te quiero mi super Karen Karen.
-            </p>
-            <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
-          </div>
+        </div>
+        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p class="leading-relaxed text-lg">
+            Los cumpleaños van y vienen. Pero las personas inolvidables como tú
+            permanecen en el corazón para siempre. Te deseo muchas felicidades
+            en este día y espero seguir celebrando más cumpleaños contigo porque
+            eres muy especial. Te quiero mi super Karen Karen.
+          </p>
+          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>
