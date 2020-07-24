@@ -141,7 +141,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/sharon/preview.jpg"
               />
               <div className="w-full">
                 <Link href="/sharon">
