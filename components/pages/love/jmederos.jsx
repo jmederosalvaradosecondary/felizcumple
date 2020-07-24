@@ -3,10 +3,10 @@ import { Player } from "video-react";
 import PicGallery from "../../shared/picgallery";
 
 const images = [
-  { original: "/assets/love/jmederos/pic-1.jpeg" },
-  { original: "/assets/love/jmederos/pic-2.jpeg" },
-  { original: "/assets/love/jmederos/pic-3.jpeg" },
-  { original: "/assets/love/jmederos/pic-4.jpeg" }
+  { original: "/assets/love/jmederos/pic-1.jpg" },
+  { original: "/assets/love/jmederos/pic-2.jpg" },
+  { original: "/assets/love/jmederos/pic-3.jpg" },
+  { original: "/assets/love/jmederos/pic-4.jpg" }
 ];
 
 export default function JMederos() {
@@ -29,6 +29,7 @@ export default function JMederos() {
           <p class="leading-relaxed text-lg">
             Amor mio, aqui algunas foticos que representa momentos muy
             especiales para mi. Sabes que la playa es nuestro lugar especial.
+            Quiero que nuestra vida siga llena de estos recuerdos.
           </p>
           <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>

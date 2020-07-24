@@ -10,9 +10,8 @@ export default function FriendsSection() {
             Tus Amigos
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Algo que represente la amistad. Que mas menos sea de este largo.
-            Esto es solo para rellenar. Esto es solo para rellenar. Esto es solo
-            para rellenar. Esto es solo para rellenar.
+            La amistad es un alma que habita en dos cuerpos, un corazon que
+            habita dos almas.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

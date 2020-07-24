@@ -10,9 +10,9 @@ export default function DisfunctionalFamilySection() {
             Tu Familia Disfuncional
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Algo que represente la familia disfuncional. Que mas menos sea de
-            este largo. Esto es solo para rellenar. Esto es solo para rellenar.
-            Esto es solo para rellenar. Esto es solo para rellenar.
+            Si, el amor está muy bien a su modo, pero la amistad es una cosa
+            mucho mas alta. Realmente nada hay en el mundo mas noble y raro que
+            una amistad verdadera.
           </p>
         </div>
 
@@ -39,7 +39,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/ariel/pic-1.jpeg"
               />
               <div className="w-full">
                 <Link href="/ariel">
@@ -56,7 +56,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/carli/pic-1.jpeg"
               />
               <div className="w-full">
                 <Link href="/carli">
@@ -90,7 +90,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/eli/pic-1.jpeg"
               />
               <div className="w-full">
                 <Link href="/eli">
@@ -158,7 +158,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/steph/pic-1.jpeg"
               />
               <div className="w-full">
                 <Link href="/steph">
@@ -175,7 +175,7 @@ export default function DisfunctionalFamilySection() {
               <img
                 alt=""
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/assets/disfunctional-family/ariel/pic-1.jpeg"
               />
               <div className="w-full">
                 <Link href="/utyi">

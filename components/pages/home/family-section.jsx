@@ -10,9 +10,9 @@ export default function FamilySection() {
             Tu Familia
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Algo que represente la familia. Que mas menos sea de este largo.
-            Esto es solo para rellenar. Esto es solo para rellenar. Esto es solo
-            para rellenar. Esto es solo para rellenar.
+            Un hogar no es un edificio, ni una calle, ni una ciudad; no tiene
+            nada que ver con cosas tan materiales como los ladrillos y el
+            cemento. Un hogar es donde está tu familia. ¿Entiendes?
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
