@@ -10,9 +10,8 @@ export default function LoveSection() {
             Alguien que te necesita mucho
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Algo que represente amor. Que mas menos sea de este largo. Esto es
-            solo para rellenar. Esto es solo para rellenar. Esto es solo para
-            rellenar. Esto es solo para rellenar.
+            Aprendemos a amar no cuando encontramos a la persona perfecta, sino
+            cuando llegamos a ver de manera perfecta a una persona imperfecta.
           </p>
         </div>
         <div className="flex justify-center items-center">
