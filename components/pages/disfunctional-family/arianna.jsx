@@ -22,15 +22,15 @@ export default function Arianna() {
             <PicGallery images={images} />
           </div>
         </div>
-        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-          <p class="leading-relaxed text-lg">
+        <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p className="leading-relaxed text-lg">
             Tita mía....FELIZ FELIZ CUMPLEAÑOS hoy más que nunca me acuerdo
             mucho de todo lo que vivimos. Cuando me acompañabas al teatro y nos
             ibamos a estudiar por ahi o simplemente a caminar, cuando nos
             pasabamos las noches conversando. Eres mi plan fijo😁, mi ciclista y
             compañara de casa de campaña. Te adoro....FELICIDADES!!!!!🥳
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+          <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>

@@ -186,6 +186,40 @@ export default function DisfunctionalFamilySection() {
               </div>
             </div>
           </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="/assets/disfunctional-family/pancho/pic-1.jpeg"
+              />
+              <div className="w-full">
+                <Link href="/pancho">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Pancho
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+            <div className="h-full flex flex-col items-center text-center">
+              <img
+                alt=""
+                className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                src="/assets/disfunctional-family/glenda/pic-1.jpeg"
+              />
+              <div className="w-full">
+                <Link href="/glenda">
+                  <a className="title-font font-medium text-lg text-pink-500">
+                    Glendita
+                  </a>
+                </Link>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

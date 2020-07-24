@@ -7,7 +7,7 @@ const images = [
   { original: "/assets/disfunctional-family/ariel/pic-3.jpeg" }
 ];
 
-export default function ariel() {
+export default function Ariel() {
   return (
     <section className="text-gray-700 body-font">
       <div className="container mx-auto py-6">

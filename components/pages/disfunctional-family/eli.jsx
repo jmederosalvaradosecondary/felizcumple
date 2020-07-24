@@ -16,15 +16,15 @@ export default function Eli() {
             <PicGallery images={images} />
           </div>
         </div>
-        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-          <p class="leading-relaxed text-lg">
+        <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p className="leading-relaxed text-lg">
             Karencia, desde que nos conocimos en ese repaso en la secundaria
             supe que nuestros caminos no se separarían más. Eres una persona muy
             especial y me alegra mucho que la vida nos haya unido a todas en ese
             C-3 del albergue G-4 de la Lenin. Muchos besitos. Te quiero mucho
             China linda. Felices 22!!😘🥰🥰❤️🥳🎂🍺🥃🍾🥂🍻🎆🎇💥
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+          <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>

@@ -19,30 +19,30 @@ export default function Utyi() {
             <PicGallery images={images} />
           </div>
         </div>
-        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-          <p class="leading-relaxed text-lg">
+        <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p className="leading-relaxed text-lg">
             Karencia Felicidadesss!!!!!! Fue dificil escoger las fotos porque
             casi todas me las pasaste tu, pero bueno aquí estan las que mas
             lindos recuerdos me traen !!!!
           </p>
-          <p class="leading-relaxed text-lg">
+          <p className="leading-relaxed text-lg">
             Como olvidar tus caminatas sin rumbo por la unidad abandonada, los
             espionajes y ver un udyi de casualidad en las paredes jj
           </p>
-          <p class="leading-relaxed text-lg">
+          <p className="leading-relaxed text-lg">
             Quería poner unos videítos pero están deshonrosos jaja los miraba y
             pensaba que mongas jj pero los amo, nos divertíamos tantooooo
           </p>
-          <p class="leading-relaxed text-lg">
+          <p className="leading-relaxed text-lg">
             Hemos cambiado muchísimo (por suerte) en todos los sentidos pero
             nunca olvidaremos todos los maravilosos momentos que vivimos juntos
             y los que vendrán
           </p>
-          <p class="leading-relaxed text-lg">
+          <p className="leading-relaxed text-lg">
             Te deseo un super cumple con todo lo que quieras, gracias por estar
             pendiente de todos muchos besitos muaaaaaaaaaaaaaaaaa
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+          <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>

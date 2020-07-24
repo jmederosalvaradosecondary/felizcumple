@@ -16,8 +16,8 @@ export default function Sariol() {
             <PicGallery images={images} />
           </div>
         </div>
-        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-          <p class="leading-relaxed text-lg">
+        <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p className="leading-relaxed text-lg">
             Karencita!!!! Muchas felicidades para tí. Estoy encantado de haberte
             podido conocer y que además te hayas convertido en una de mis
             mejores amigas. Te deseo lo mejor del mundo mundial. Gracias por
@@ -26,7 +26,7 @@ export default function Sariol() {
             PD: Por muy fuerte que te pongas siempre te seguiré molestando con
             el bracito...😅😅
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+          <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>

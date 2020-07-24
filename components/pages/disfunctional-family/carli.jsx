@@ -9,8 +9,8 @@ export default function Sariol() {
             <img src="/assets/disfunctional-family/carli/pic-1.jpeg" />
           </div>
         </div>
-        <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
-          <p class="leading-relaxed text-lg">
+        <div className="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center mt-6">
+          <p className="leading-relaxed text-lg">
             Evidentemente tenemos q tirarnos mas fotos.... Muchas felicidades
             china linda, gracias x estar en muchos momentos inolvidables d mi
             vida. Creo q el primer recuerdo q tengo d hablar contigo fue cdo me
@@ -26,7 +26,7 @@ export default function Sariol() {
             éxito en tu carrera así como en tu vida personal, muchos besos y
             abrazos.
           </p>
-          <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
+          <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
         </div>
       </div>
     </section>
