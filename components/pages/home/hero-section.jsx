@@ -12,9 +12,12 @@ export default function HeroSection() {
             especial y maravillosa
           </h1>
           <p className="mb-8 leading-relaxed">
-            Si, el amor está muy bien a su modo, pero la amistad es una cosa
-            mucho mas alta. Realmente nada hay en el mundo mas noble y raro que
-            una amistad verdadera.
+            Todas las personas que trabajamos para lograr esta paginita te
+            queremos con la vida. Te consideramos una persona maravillosa. Capaz
+            de alegrarle el dia a cualquiera con una sonrisa. Esperamos que este
+            dia sea especial y que podamos disfrutarlo de esta manera durante
+            muchos años. Y que cuando estemos lejos esta paginita sirva de
+            recordatorio de cuanto te queremos
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
