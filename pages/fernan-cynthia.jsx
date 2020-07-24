@@ -1,1 +1,1 @@
-export { default } from "../components/pages/disfunctional-family/eli";
+export { default } from "../components/pages/disfunctional-family/fernan-cynthia";
